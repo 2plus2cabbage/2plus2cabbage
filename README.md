@@ -8,3 +8,9 @@
 - I do stupid things.
 - Sometimes I figure out they are stupid.
 - Sometimes you will, please be kind.
+
+### Repositories
+- [terraform-aws-base](https://github.com/2plus2cabbage/terraform-aws-base)
+- [terraform-azure-base](https://github.com/2plus2cabbage/terraform-azure-base)
+- [terraform-gcp-base](https://github.com/2plus2cabbage/terraform-gcp-base)
+- [terraform-oci-base](https://github.com/2plus2cabbage/terraform-oci-base)
