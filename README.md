@@ -10,7 +10,7 @@
 - Sometimes you will, please be kind.
 
 ### Repositories
-- [terraform-aws-base](https://github.com/2plus2cabbage/terraform-aws-base)
-- [terraform-azure-base](https://github.com/2plus2cabbage/terraform-azure-base)
-- [terraform-gcp-base](https://github.com/2plus2cabbage/terraform-gcp-base)
-- [terraform-oci-base](https://github.com/2plus2cabbage/terraform-oci-base)
+- [terraform-aws-base - Terraform base AWS deployment with a Windows Instance](https://github.com/2plus2cabbage/terraform-aws-base)
+- [terraform-azure-base - Terraform base Azure deployment with a Windows Instance](https://github.com/2plus2cabbage/terraform-azure-base)
+- [terraform-gcp-base - Terraform base GCP deployment with a Windows Instance](https://github.com/2plus2cabbage/terraform-gcp-base)
+- [terraform-oci-base - Terraform base OCI deployment with a Windows Instance](https://github.com/2plus2cabbage/terraform-oci-base)
