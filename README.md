@@ -18,5 +18,5 @@
 
 #### IPsec Connectivity Between Clouds
 ##### Azure to/from GCP
-- [terraform-azure-to-gcp](https://github.com/2plus2cabbage/terraform-azure-to-gcp) - Connect Azure to GCP using IPSEC with Terraform
-- [terraform-gcp-to-azure](https://github.com/2plus2cabbage/terraform-gcp-to-azure) - Connect GCP to Azure using IPSEC with Terraform
+- [terraform-azure-to-gcp](https://github.com/2plus2cabbage/terraform-azure-to-gcp) - Connect Azure to GCP using IPsec with Terraform
+- [terraform-gcp-to-azure](https://github.com/2plus2cabbage/terraform-gcp-to-azure) - Connect GCP to Azure using IPsec with Terraform
