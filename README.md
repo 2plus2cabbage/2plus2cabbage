@@ -14,3 +14,5 @@
 - [terraform-azure-base](https://github.com/2plus2cabbage/terraform-azure-base) - Terraform base Azure deployment with a Windows Instance
 - [terraform-gcp-base](https://github.com/2plus2cabbage/terraform-gcp-base) - Terraform base GCP deployment with a Windows Instance
 - [terraform-oci-base](https://github.com/2plus2cabbage/terraform-oci-base) - Terraform base OCI deployment with a Windows Instance
+- [terraform-azure-to-gcp](https://github.com/2plus2cabbage/terraform-azure-to-gcp) - Connect Azure to GCP using IPSEC with Terraform
+- [terraform-gcp-to-azure](https://github.com/2plus2cabbage/terraform-gcp-to-azure) - Connect GCP to Azure using IPSEC with Terraform
