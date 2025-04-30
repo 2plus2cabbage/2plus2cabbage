@@ -20,3 +20,6 @@
 ##### Azure to/from GCP
 - [terraform-azure-to-gcp](https://github.com/2plus2cabbage/terraform-azure-to-gcp) - Connect Azure to GCP using IPsec with Terraform
 - [terraform-gcp-to-azure](https://github.com/2plus2cabbage/terraform-gcp-to-azure) - Connect GCP to Azure using IPsec with Terraform
+##### OCI to/from AWS
+- [terraform-oci-to-aws](https://github.com/2plus2cabbage/terraform-azure-to-gcp) - Connect OCI to AWS using IPsec with Terraform
+- [terraform-aws-to-oci](https://github.com/2plus2cabbage/terraform-gcp-to-azure) - Connect AWS to OCI using IPsec with Terraform
