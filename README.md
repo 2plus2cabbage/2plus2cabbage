@@ -23,3 +23,7 @@
 ##### OCI to/from AWS
 - [terraform-oci-to-aws](https://github.com/2plus2cabbage/terraform-oci-to-aws) - Connect OCI to AWS using IPsec with Terraform
 - [terraform-aws-to-oci](https://github.com/2plus2cabbage/terraform-aws-to-oci) - Connect AWS to OCI using IPsec with Terraform
+
+#### Palo Alto Firewall Deployment
+##### OCI
+- [terraform-terraform-oci-paloalto-base](https://github.com/2plus2cabbage/terraform-oci-paloalto-base) - Deploy a Palo Alto Firewall to OCI
