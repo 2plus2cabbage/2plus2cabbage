@@ -28,3 +28,5 @@
 ##### OCI
 - [terraform-oci-paloalto-base](https://github.com/2plus2cabbage/terraform-oci-paloalto-base) - Deploy a Palo Alto Firewall to OCI
 - [terraform-oci-paloalto-ha](https://github.com/2plus2cabbage/terraform-oci-paloalto-ha) - Deploy Palo Alto Firewalls with High Availability (HA) to OCI
+##### Azure
+- [terraform-azure-paloalto-ha](https://github.com/2plus2cabbage/terraform-azure-paloalto-ha) - Deploy Palo Alto Firewalls with High Availability (HA) to Azure
