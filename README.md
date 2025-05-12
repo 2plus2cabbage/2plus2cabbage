@@ -36,6 +36,12 @@
 #### Azure
 - [terraform-azure-paloalto-ha](https://github.com/2plus2cabbage/terraform-azure-paloalto-ha) • Deploy Palo Alto Firewalls with High Availability (HA) to Azure
 
+#### AWS
+- [terraform-aws-paloalto-ha](https://github.com/2plus2cabbage/terraform-aws-paloalto-ha) • **COMING SOON** Deploy Palo Alto Firewalls with High Availability (HA) to AWS
+
+#### GCP
+- [terraform-gcp-paloalto-ha] • **NOT COMING SOON** Deploy Palo Alto Firewalls with High Availability (HA) to GCP - GCP requires Load balancers so traditional HA doesn't work.
+
 ---
 
 ## 🙌 Contributions Welcome
