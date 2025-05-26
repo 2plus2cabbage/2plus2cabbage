@@ -43,6 +43,11 @@
 - terraform-gcp-paloalto-ha • **NOT COMING SOON** Deploy Palo Alto Firewalls with High Availability (HA) to GCP - GCP requires load balancers so traditional HA doesn't work.  **COMING SOON** Load Balancer Sandwich!
 
 ---
+## Cloud Account Setup Instructions
+- [aws-account-terraform](https://github.com/2plus2cabbage/cloud-setup-docs/blob/main/aws-account-terraform.md) • Create an account to use Terraform with AWS
+- [azure-account-terraform](https://github.com/2plus2cabbage/cloud-setup-docs/blob/main/azure-account-terraform.md) • Create an account to use Terraform with Azure
+- [gcp-account-terraform](https://github.com/2plus2cabbage/cloud-setup-docs/blob/main/gcp-account-terraform.md) • Create an account to use Terraform with GCP
+- [oci-account-terraform](https://github.com/2plus2cabbage/cloud-setup-docs/blob/main/oci-account-terraform.md) • Create an account to use Terraform with OCI
 
 ## 🙌 Contributions Welcome
 
