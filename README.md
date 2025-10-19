@@ -38,6 +38,7 @@
 - [terraform-azure-paloalto-ha](https://github.com/2plus2cabbage/terraform-azure-paloalto-ha) • Deploy Palo Alto Firewalls with High Availability (HA) to Azure (failover performance is meh.  Failover takes too long for production workloads.) **COMING SOON** Load Balancer Sandwich!
 
 #### AWS
+- [terraform-aws-paloalto-base](https://github.com/2plus2cabbage/terraform-aws-paloalto-base) • Deploy a Palo Alto Firewall to AWS 
 - terraform-aws-paloalto-ha • **COMING SOON** Deploy Palo Alto Firewalls with High Availability (HA) to AWS
 
 #### GCP
