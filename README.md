@@ -47,10 +47,10 @@
 
 ---
 ## Cloud Account Setup Instructions
-- [aws-account-terraform](https://github.com/2plus2cabbage/cloud-setup-docs/blob/main/aws-account-terraform.md) • Create an account to use Terraform with AWS
-- [azure-account-terraform](https://github.com/2plus2cabbage/cloud-setup-docs/blob/main/azure-account-terraform.md) • Create an account to use Terraform with Azure
-- [gcp-account-terraform](https://github.com/2plus2cabbage/cloud-setup-docs/blob/main/gcp-account-terraform.md) • Create an account to use Terraform with GCP
-- [oci-account-terraform](https://github.com/2plus2cabbage/cloud-setup-docs/blob/main/oci-account-terraform.md) • Create an account to use Terraform with OCI
+- [aws-account-terraform](https://github.com/2plus2cabbage/cloud-setup-docs/blob/main/aws-account-terraform.md) • Create an account to use Terraform with AWS  • [📺 Video](https://youtu.be/6VfTwNrTyfU)
+- [azure-account-terraform](https://github.com/2plus2cabbage/cloud-setup-docs/blob/main/azure-account-terraform.md) • Create an account to use Terraform with Azure  • [📺 Video](https://youtu.be/dEk8vuQUp8M)
+- [gcp-account-terraform](https://github.com/2plus2cabbage/cloud-setup-docs/blob/main/gcp-account-terraform.md) • Create an account to use Terraform with GCP  • [📺 Video](https://youtu.be/AqgojcoD9s8)
+- [oci-account-terraform](https://github.com/2plus2cabbage/cloud-setup-docs/blob/main/oci-account-terraform.md) • Create an account to use Terraform with OCI  • [📺 Video](https://youtu.be/rJhl6tqZ8go)
 
 ## 🙌 Contributions Welcome
 
