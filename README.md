@@ -34,11 +34,11 @@
 - [terraform-oci-paloalto-ha](https://github.com/2plus2cabbage/terraform-oci-paloalto-ha) • Deploy Palo Alto Firewalls with High Availability (HA) to OCI (failover performance is surprisingly not bad.  Failover is almost as fast as hardware firewalls.)
 
 #### Azure
-- [terraform-azure-paloalto-base](https://github.com/2plus2cabbage/terraform-azure-paloalto-base) • Deploy a Palo Alto Firewall to Azure  
+- [terraform-azure-paloalto-base](https://github.com/2plus2cabbage/terraform-azure-paloalto-base) • Deploy a Palo Alto Firewall to Azure  • [📺 Video](https://youtu.be/AelkizWtHjQ)
 - [terraform-azure-paloalto-ha](https://github.com/2plus2cabbage/terraform-azure-paloalto-ha) • Deploy Palo Alto Firewalls with High Availability (HA) to Azure (failover performance is meh.  Failover takes too long for production workloads.) **COMING SOON** Load Balancer Sandwich!
 
 #### AWS
-- [terraform-aws-paloalto-base](https://github.com/2plus2cabbage/terraform-aws-paloalto-base) • Deploy a Palo Alto Firewall to AWS 
+- [terraform-aws-paloalto-base](https://github.com/2plus2cabbage/terraform-aws-paloalto-base) • Deploy a Palo Alto Firewall to AWS • [📺 Video](https://youtu.be/H0EUNLWyApY)
 - terraform-aws-paloalto-ha • **COMING SOON** Deploy Palo Alto Firewalls with High Availability (HA) to AWS
 
 #### GCP
