@@ -12,10 +12,10 @@
 ## 🗂️ Repositories
 
 ### Base Terraform Projects
-- [terraform-aws-base](https://github.com/2plus2cabbage/terraform-aws-base) • Terraform base AWS deployment with a Windows Instance
-- [terraform-azure-base](https://github.com/2plus2cabbage/terraform-azure-base) • Terraform base Azure deployment with a Windows Instance
-- [terraform-gcp-base](https://github.com/2plus2cabbage/terraform-gcp-base) • Terraform base GCP deployment with a Windows Instance
-- [terraform-oci-base](https://github.com/2plus2cabbage/terraform-oci-base) • Terraform base OCI deployment with a Windows Instance
+- [terraform-aws-base](https://github.com/2plus2cabbage/terraform-aws-base) • Terraform base AWS deployment with a Windows Instance • [📺 Video](https://youtu.be/m9re7XFJ5Yk)
+- [terraform-azure-base](https://github.com/2plus2cabbage/terraform-azure-base) • Terraform base Azure deployment with a Windows Instance • [📺 Video](https://youtu.be/cvX_iiR2CkQ)
+- [terraform-gcp-base](https://github.com/2plus2cabbage/terraform-gcp-base) • Terraform base GCP deployment with a Windows Instance • [📺 Video](https://youtu.be/ppRQhPrmIEc)
+- [terraform-oci-base](https://github.com/2plus2cabbage/terraform-oci-base) • Terraform base OCI deployment with a Windows Instance • [📺 Video](https://youtu.be/WmFoYLQp5TA)
 
 ### IPsec Connectivity Between Clouds
 
