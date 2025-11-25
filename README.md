@@ -42,7 +42,7 @@
 - terraform-aws-paloalto-ha • **COMING SOON** Deploy Palo Alto Firewalls with High Availability (HA) to AWS
 
 #### GCP
-- [terraform-gcp-paloalto-base](https://github.com/2plus2cabbage/terraform-gcp-paloalto-base) • Deploy a Palo Alto Firewall to GCP 
+- [terraform-gcp-paloalto-base](https://github.com/2plus2cabbage/terraform-gcp-paloalto-base) • Deploy a Palo Alto Firewall to GCP • [📺 Video](https://youtu.be/ygyQLTfWKW0)
 - terraform-gcp-paloalto-ha • **NOT COMING SOON** Deploy Palo Alto Firewalls with High Availability (HA) to GCP - GCP requires load balancers so traditional HA doesn't work.  **COMING SOON** Load Balancer Sandwich!
 
 ---
